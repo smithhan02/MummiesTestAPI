@@ -9,4 +9,5 @@ namespace MummiesTestAPI.Data
     {
         public float PredictedValue { get; set; }
     }
+
 }
